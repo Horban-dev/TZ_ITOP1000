@@ -1,0 +1,16 @@
+.container {
+    width: 800px;
+    margin: 60px auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between
+}
+.title {
+    text-align: center;
+    margin-top: 80px;
+}
+.buttons {
+    margin: 60px auto;
+    display: flex;
+    justify-content: center;
+}
