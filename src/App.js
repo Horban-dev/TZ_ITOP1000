@@ -1,13 +1,12 @@
+import Converter from "./components/converter/Converter";
+import Header from "./components/header/Header";
 
-
-import ExchangeRates from './Converter';
-import Header from './Header';
 
 function App() {
   return (
     <div>
     <Header />
-    <ExchangeRates/>
+    <Converter/>
     </div>
     );
 }
